@@ -1,7 +1,7 @@
 # year3coding
 This repository contains coursework from my final year module "Modern Computational Techniques".
 
-Assignment 1 involves studying the one-dimensional Schrodinger equation using Fortran/Lapack.
+Assignment 1 involves studying the one-dimensional Schrodinger equation using Fortran/Lapack. An algorithm was produced, implementing a finite-difference method known as Crank-Nicholson.
 
 Assignment 2 includes Fourier transforms, Neural networks, Monte Carlo Methods and Parallel programming.
 
